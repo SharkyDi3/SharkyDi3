@@ -1,4 +1,4 @@
-<img src="https://github.com/SharkyDi3.png" width="200px; place-items: center;"/>
+<img src="https://github.com/SharkyDi3.png" width="200px; margin-left: 200px;"/>
 <h1 align="center">Hi, I'm Charan Kalyankar</h1>
 <h3 align="center">A Passionate Web Developer from Hyderabad, Telangana. I am currently learning MERN Stack Development. You can Reach me out on my socials.</h3>
 
