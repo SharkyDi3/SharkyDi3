@@ -1,4 +1,4 @@
-![IMG20210816134145_Bokeh](https://github.com/SharkyDi3/SharkyDi3/assets/69460403/b0b24e34-9dd2-4c9f-9140-219ebdd0928d = 250x250)
+![IMG20210816134145_Bokeh](https://github.com/SharkyDi3/SharkyDi3/assets/69460403/b0b24e34-9dd2-4c9f-9140-219ebdd0928d=250x250)
 <h1 align="center">Hi, I'm Charan Kalyankar</h1>
 <h3 align="center">A Passionate Web Developer from Hyderabad, Telangana. I am currently learning MERN Stack Development. You can Reach me out on my socials.</h3>
 
