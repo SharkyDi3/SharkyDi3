@@ -1,4 +1,4 @@
-[<img src="https://github.com/{{ SharkyDi3.png }}" width="60px;"/><br /><sub><a href="https://github.com/{{ SharkyDi3 }}">{{ contributor }}</a></sub>](https://github.com/{{ SharkyDi3 }}/{{ SharkyDi3 }}
+[<img src="https://github.com/SharkyDi3.png" width="60px;"/><br /><sub><a href="https://github.com/SharkyDi3">SharkyDi3</a></sub>](https://github.com/SharkyDi3/SharkyDi3
 <h1 align="center">Hi, I'm Charan Kalyankar</h1>
 <h3 align="center">A Passionate Web Developer from Hyderabad, Telangana. I am currently learning MERN Stack Development. You can Reach me out on my socials.</h3>
 
